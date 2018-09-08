@@ -4,6 +4,10 @@ The info about this dataset is available here: https://www.kaggle.com/uciml/brea
 
 Our goal is to predict whether the breast cancer is malignant or benign using the information given by studying the FNA of a breast tumour.
 
-Some problem introduction to give you an idea : 
-Our data comes from a Fine Needle Aspiration(FNA) which was performed on the breast mass. Features in our data are as noted in the image of the cell nuclei present in this sample.
-A biopsy is a procedure which involves removal of tissues and studying them to identify cancer or the severity/extent of any disease. FNA is just a type of biopsy. 
+File Descriptions:
+
+Breast Cancer.ipynb : The jupyter nb where I have done all my analysis. Tried various classification algorithms along with Grid Search and PCA.
+
+breast_cancer.html : An html page of the entire Jupyter nb for easy viewing of code and analysis.
+
+data.csv : Contains the data for this project.
